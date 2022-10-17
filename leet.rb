@@ -25,7 +25,6 @@ output = convert.join
 puts output
 
 
-
 # def convert_leet(chara)
 #   case chara
 #   when "A" then
